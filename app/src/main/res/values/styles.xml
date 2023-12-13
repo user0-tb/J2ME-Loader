@@ -95,7 +95,7 @@
         <item name="android:background">@drawable/bg_button</item>
     </style>
 
-    <style name="ImageButtonStyle" parent="Widget.MaterialComponents.ImageButton">
+    <style name="ImageButtonStyle" parent="Widget.AppCompat.ImageButton">
         <item name="android:minHeight">38dp</item>
         <item name="android:background">@android:color/transparent</item>
         <item name="android:tint">?colorAccent</item>
